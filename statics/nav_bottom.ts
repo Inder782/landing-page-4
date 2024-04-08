@@ -1,0 +1,42 @@
+export const nav_bottom = [
+  {
+    key: 1,
+    item: "Product",
+    Link_1: "Pricing",
+    Link_2: "Overview",
+    Link_3: "Browse",
+    Link_4: "Accessibility",
+  },
+  {
+    key: 2,
+    item: "Solutions",
+    Link_1: "Brainstorming",
+    Link_2: "Ideation",
+    Link_3: "Wireframing",
+    Link_4: "Research",
+  },
+  {
+    key: 3,
+    item: "Resouces",
+    Link_1: "Help Center",
+    Link_2: "Blog",
+    Link_3: "Tutorials",
+    Link_4: "FAQs",
+  },
+  {
+    key: 4,
+    item: "Support",
+    Link_1: "Contact Us",
+    Link_2: "Developers",
+    Link_3: "Documentation",
+    Link_4: "Integerations",
+  },
+  {
+    key: 5,
+    item: "Company",
+    Link_1: "About",
+    Link_2: "Press",
+    Link_3: "Events",
+    Link_4: "Request a Demo ->",
+  },
+];
